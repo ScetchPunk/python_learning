@@ -1,0 +1,5 @@
+my_data=dict()
+my_data["height"]=input("Ваш рост?")
+my_data["favourite_color"]=input("Ваш любимый цвет?")
+my_data["favourite_actor"]=input("Ваш любимый актёр?")
+print(my_data)

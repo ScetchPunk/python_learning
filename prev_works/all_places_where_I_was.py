@@ -1,0 +1,6 @@
+places=list()
+Minsk=(20,40)
+Grodno=(40,80)
+places.append(Minsk)
+places.append(Grodno)
+print(places)
